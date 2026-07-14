@@ -70,10 +70,7 @@ padding:15px 30px;
 
 </head>
 
-<body>
-
-<header>
-<div class="logo">PDAN AI</div>
+<bod
 <button>Login</button>
 </header>
 
